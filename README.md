@@ -21,6 +21,8 @@ This project demonstrates database design, relationships, and SQL queries used t
 ## Technologies Used
 - MySQL
 - SQL
+- Database
+- Data Analytics
 
 ## Author
 Kamali
